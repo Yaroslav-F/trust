@@ -1,12 +1,12 @@
 @font-face{
-	font-family: 'FuturaHandwritten';
+	font-family: 'Noteworthy';
 	font-style: normal;
-	src: url('../css/FuturaHandwritten.ttf') format('truetype');
+	src: url('../css/Noteworthy-Light.ttf') format('truetype');
 }
 
 body{
 	background: #fff;
-	font-family: "FuturaHandwritten";
+	font-family: "Noteworthy";
 	font-size: 20px;
 	color: #222;
 	margin: 0;
